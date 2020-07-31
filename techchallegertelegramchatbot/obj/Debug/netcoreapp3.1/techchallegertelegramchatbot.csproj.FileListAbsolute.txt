@@ -1,0 +1,16 @@
+C:\Caio\DIO\TechChalleger_CarrefourDIO\techchallegertelegramchatbot\bin\Debug\netcoreapp3.1\techchallegertelegramchatbot.exe
+C:\Caio\DIO\TechChalleger_CarrefourDIO\techchallegertelegramchatbot\obj\Debug\netcoreapp3.1\techchallegertelegramchatbot.csprojAssemblyReference.cache
+C:\Caio\DIO\TechChalleger_CarrefourDIO\techchallegertelegramchatbot\obj\Debug\netcoreapp3.1\techchallegertelegramchatbot.AssemblyInfoInputs.cache
+C:\Caio\DIO\TechChalleger_CarrefourDIO\techchallegertelegramchatbot\obj\Debug\netcoreapp3.1\techchallegertelegramchatbot.AssemblyInfo.cs
+C:\Caio\DIO\TechChalleger_CarrefourDIO\techchallegertelegramchatbot\bin\Debug\netcoreapp3.1\techchallegertelegramchatbot.deps.json
+C:\Caio\DIO\TechChalleger_CarrefourDIO\techchallegertelegramchatbot\bin\Debug\netcoreapp3.1\techchallegertelegramchatbot.runtimeconfig.json
+C:\Caio\DIO\TechChalleger_CarrefourDIO\techchallegertelegramchatbot\bin\Debug\netcoreapp3.1\techchallegertelegramchatbot.runtimeconfig.dev.json
+C:\Caio\DIO\TechChalleger_CarrefourDIO\techchallegertelegramchatbot\bin\Debug\netcoreapp3.1\techchallegertelegramchatbot.dll
+C:\Caio\DIO\TechChalleger_CarrefourDIO\techchallegertelegramchatbot\bin\Debug\netcoreapp3.1\techchallegertelegramchatbot.pdb
+C:\Caio\DIO\TechChalleger_CarrefourDIO\techchallegertelegramchatbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Caio\DIO\TechChalleger_CarrefourDIO\techchallegertelegramchatbot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Caio\DIO\TechChalleger_CarrefourDIO\techchallegertelegramchatbot\obj\Debug\netcoreapp3.1\techchallegertelegramchatbot.csproj.CoreCompileInputs.cache
+C:\Caio\DIO\TechChalleger_CarrefourDIO\techchallegertelegramchatbot\obj\Debug\netcoreapp3.1\techchallegertelegramchatbot.csproj.CopyComplete
+C:\Caio\DIO\TechChalleger_CarrefourDIO\techchallegertelegramchatbot\obj\Debug\netcoreapp3.1\techchallegertelegramchatbot.dll
+C:\Caio\DIO\TechChalleger_CarrefourDIO\techchallegertelegramchatbot\obj\Debug\netcoreapp3.1\techchallegertelegramchatbot.pdb
+C:\Caio\DIO\TechChalleger_CarrefourDIO\techchallegertelegramchatbot\obj\Debug\netcoreapp3.1\techchallegertelegramchatbot.genruntimeconfig.cache
