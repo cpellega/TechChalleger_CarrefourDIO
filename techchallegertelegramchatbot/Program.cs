@@ -9,17 +9,17 @@ namespace techchallegertelegramchatbot
     class telegrambot
     {
         /// <summary>
-        /// Declare Telegrambot object
+        /// Declara objeto Telegrambot
         /// </summary>
         private static readonly TelegramBotClient bot = new TelegramBotClient("1389684620:AAESfTkWLx0_SDLPVIu-sH6zyDdugNd-lvk");
 
         /// <summary>
-        /// csharp corner chat bot web hook
+        /// carrcapbot chatbot webhook
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            bot.OnMessage += Csharpcornerbotmessage;
+            bot.OnMessage += Carrcapbotmessage;
             bot.StartReceiving();
             Console.ReadLine();
             bot.StopReceiving();
@@ -27,11 +27,11 @@ namespace techchallegertelegramchatbot
         }
 
         /// <summary>
-        /// Handle bot webhook
+        /// Tratar mensagem com webhook bot
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        private static void Csharpcornerbotmessage(object sender, MessageEventArgs e)
+        private static void Carrcapbotmessage(object sender, MessageEventArgs e)
         {
             if (e.Message.Type == Telegram.Bot.Types.Enums.MessageType.Text)
                 PrepareQuestionnaires(e);
@@ -119,7 +119,7 @@ namespace techchallegertelegramchatbot
                     }
                 case "4":
                 case "promoções":
-                case "tem alguma promoção para que tem cartão carrefour ?":
+                case "tem alguma promoção para quem tem cartão carrefour ?":
                 case "tem promoções para clientes ?":
                 case "tem alguma promoção para clientes ?":
                 case "promoção":
